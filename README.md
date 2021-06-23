@@ -1,16 +1,27 @@
-### Hi there 👋
+Hey! I'm Lucas. Welcome to my profile 👋
 
-<!--
-**rebal15/rebal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
+- Avgeek
+- Student
+- Animal lover
 
-Here are some ideas to get you started:
+**Skills**
+- Docker
+- Cloud (DO + beginner AWS)
+- Linux
+- ASP.NET Core
+- Next.js
+- React + React Native
+- MySQL
+- NodeJS
+- Beginner in AI (ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- C#
+- Python
+- JavaScript
+- TypeScript
+- PHP
+- HTML + CSS
+
+If you need any help relating to the above (or want me to contribute), lmk 🙂
