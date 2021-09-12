@@ -3,7 +3,6 @@ Hey! I'm Lucas. Welcome to my profile 👋
 **About me**
 - Avgeek
 - Student
-- Animal lover
 
 **Skills**
 - Docker
