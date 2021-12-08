@@ -23,4 +23,4 @@ Hey! I'm Lucas. Welcome to my profile 👋
 - PHP
 - HTML + CSS
 
-If you need any help relating to the above (or want me to contribute), lmk 🙂
+If you need any help relating to the above (or want me to contribute), feel free to let me know. 🙂
