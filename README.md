@@ -1,26 +1,21 @@
-Hey! I'm Lucas. Welcome to my profile 👋
+Hey! I'm Lucas 👋
 
-**About me**
-- Avgeek
+I'm a...
 - Student
+- Musician
+- Avgeek
+- Animal lover
 
-**Skills**
-- Docker
-- Cloud (DO + beginner AWS)
-- Linux
-- ASP.NET Core
-- Next.js
-- React + React Native
-- MySQL
-- NodeJS
-- Beginner in AI (ML)
+...who also happens to code 💻
 
-**Languages**
-- C#
-- Python
-- JavaScript
-- TypeScript
-- PHP
-- HTML + CSS
+---
 
-If you need any help relating to the above (or want me to contribute), feel free to let me know. 🙂
+Currently in ❤️ with TypeScript, Next.js, and tRPC - who doesn't like static types?! 🤷‍♂️
+
+Generally, my projects reside in the cloud  ☁️, both backend and frontend, but I'm also proficient with React Native.
+
+---
+
+Not currently looking for permanent employment, but feel free to [get in touch](https://lucasrebato.com/) for freelance projects.
+
+Thanks for reading!
