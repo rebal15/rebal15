@@ -19,3 +19,7 @@ Generally, my projects reside in the cloud  ☁️, both backend and frontend, b
 Not currently looking for permanent employment, but feel free to [get in touch](https://lucasrebato.com/) for freelance projects.
 
 Thanks for reading!
+
+---
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rebal15&style=--border-radius:12px" />
