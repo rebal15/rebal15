@@ -22,4 +22,4 @@ Thanks for reading!
 
 ---
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rebal15&style=--border-radius:12px" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rebal15" />
