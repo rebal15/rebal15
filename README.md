@@ -12,7 +12,7 @@ I'm a...
 
 Currently in ❤️ with TypeScript, Next.js, and tRPC - who doesn't like static types?! 🤷‍♂️
 
-Generally, my projects reside in the cloud  ☁️, both backend and frontend, but I'm also proficient with React Native.
+Generally, my projects reside (sometimes serverlessly) in the cloud  ☁️, both backend and frontend, but I'm also proficient with React Native.
 
 ---
 
